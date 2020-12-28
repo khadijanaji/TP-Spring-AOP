@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-28T13:11:51</date>
+  <millis>1609157511106</millis>
+  <sequence>4</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>50</thread>
+  <message>Avant String org.sid.contrats.controller.ContratController.save(Contrat)</message>
+</record>
+<record>
+  <date>2020-12-28T13:11:51</date>
+  <millis>1609157511433</millis>
+  <sequence>5</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>50</thread>
+  <message>Après String org.sid.contrats.controller.ContratController.save(Contrat)</message>
+</record>
+<record>
+  <date>2020-12-28T13:11:51</date>
+  <millis>1609157511434</millis>
+  <sequence>6</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>50</thread>
+  <message>Durée : 328ms</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527415</millis>
+  <sequence>7</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Avant List org.sid.contrats.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527616</millis>
+  <sequence>8</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Après List org.sid.contrats.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527616</millis>
+  <sequence>9</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Durée : 202ms</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527616</millis>
+  <sequence>10</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Avant List org.sid.contrats.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527618</millis>
+  <sequence>11</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Après List org.sid.contrats.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T13:12:07</date>
+  <millis>1609157527618</millis>
+  <sequence>12</sequence>
+  <logger>org.sid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.sid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>51</thread>
+  <message>Durée : 2ms</message>
+</record>
